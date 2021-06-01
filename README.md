@@ -2,7 +2,7 @@
 
 * scan ports
 
-# Usage
+# Usege
 
 ```
 $ git clone https://github.com/d5tr/Pcool.git
